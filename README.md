@@ -29,6 +29,11 @@ To run this project, download the zip file and extract the contents - or clone t
 8. **Open File**: To load a saved file, click "Open" under the File menu. The input text and rotor positions will be loaded automatically.
 9. **Help**: For additional information, use the "Help" menu to view the about section, history, and instructions.
 
+<video width="600" controls>
+  <source src="enigma.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ### Example
 
 1. Enter a message in the "Input Text" field (e.g., "HELLO").
